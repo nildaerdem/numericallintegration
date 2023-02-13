@@ -1,0 +1,15 @@
+/Users/apple/Projects/numerical/numerical/bin/Debug/net7.0/numerical
+/Users/apple/Projects/numerical/numerical/bin/Debug/net7.0/numerical.deps.json
+/Users/apple/Projects/numerical/numerical/bin/Debug/net7.0/numerical.runtimeconfig.json
+/Users/apple/Projects/numerical/numerical/bin/Debug/net7.0/numerical.dll
+/Users/apple/Projects/numerical/numerical/bin/Debug/net7.0/numerical.pdb
+/Users/apple/Projects/numerical/numerical/obj/Debug/net7.0/numerical.csproj.AssemblyReference.cache
+/Users/apple/Projects/numerical/numerical/obj/Debug/net7.0/numerical.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Projects/numerical/numerical/obj/Debug/net7.0/numerical.AssemblyInfoInputs.cache
+/Users/apple/Projects/numerical/numerical/obj/Debug/net7.0/numerical.AssemblyInfo.cs
+/Users/apple/Projects/numerical/numerical/obj/Debug/net7.0/numerical.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/numerical/numerical/obj/Debug/net7.0/numerical.dll
+/Users/apple/Projects/numerical/numerical/obj/Debug/net7.0/refint/numerical.dll
+/Users/apple/Projects/numerical/numerical/obj/Debug/net7.0/numerical.pdb
+/Users/apple/Projects/numerical/numerical/obj/Debug/net7.0/numerical.genruntimeconfig.cache
+/Users/apple/Projects/numerical/numerical/obj/Debug/net7.0/ref/numerical.dll
